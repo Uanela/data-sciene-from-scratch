@@ -16,3 +16,7 @@ print all([
 ])
 
 ```
+
+## Enumrate
+
+- `enumerate(list)` -> then for has i, item
