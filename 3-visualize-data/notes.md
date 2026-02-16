@@ -18,3 +18,6 @@ Those are good for showing trends
 ### Scatterplots
 
 Right choice for visualizing the relationship between two paired sets of data
+
+- `plt.scatter(x_axis_list, y_axis_list)`
+- `plt.axis("equal")` -> may help sometimes getting more accurate visualization
