@@ -20,7 +20,7 @@ histogram = Counter(decile(grade) for grade in grades)
 
 plt.bar([x for x in histogram.keys()], histogram.values(), 8)
 
-plt.axis([-5, 105, 0, 5]) # x-axis -5 to 105, y-axis 0 - 5
+plt.axis(( -5, 105, 0, 5 )) # x-axis -5 to 105, y-axis 0 - 5
 
 plt.xticks([10 * i for i in range(11)]) # number of bars
 plt.xlabel("Decile")
