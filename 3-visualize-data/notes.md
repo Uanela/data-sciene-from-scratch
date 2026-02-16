@@ -1,3 +1,3 @@
 # 3. Chapter - Visualize Data
 
-- `matplotlib`
+- `matplotlib` -> for charts
